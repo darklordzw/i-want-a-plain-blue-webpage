@@ -1,8 +1,8 @@
 ### Requirements
-- Plain blue webpage
+- Plain green webpage
 
 ### Designs
-- Simple blue background page
+- Simple green background page
 
 ### Tasks
-- [x] Create blue webpage with design system
+- [x] Create green webpage with design system
