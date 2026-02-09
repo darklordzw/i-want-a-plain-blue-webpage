@@ -1,8 +1,8 @@
 ### Requirements
-- Plain purple webpage
+- Plain blue webpage
 
 ### Designs
-- Simple purple background page
+- Simple blue background page
 
 ### Tasks
-- [x] Create purple webpage with design system
+- [x] Create blue webpage with design system
