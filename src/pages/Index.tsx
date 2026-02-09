@@ -1,9 +1,8 @@
 
-import React from 'react';
-
 const Index = () => {
   return (
-    <></>
+    <div className="min-h-screen w-full bg-background">
+    </div>
   );
 };
 
