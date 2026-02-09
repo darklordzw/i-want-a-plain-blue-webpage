@@ -1,8 +1,8 @@
 ### Requirements
-- Plain green webpage
+- Plain orange webpage
 
 ### Designs
-- Simple green background page
+- Simple orange background page
 
 ### Tasks
-- [x] Create green webpage with design system
+- [x] Create orange webpage with design system
